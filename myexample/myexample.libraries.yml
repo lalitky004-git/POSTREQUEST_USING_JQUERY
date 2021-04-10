@@ -1,0 +1,9 @@
+js_example:
+  js:
+    js/jsset.js: {}
+  dependencies:
+    - core/jquery
+    - core/jquery.once
+    - core/drupal
+    - core/drupalSettings
+    - markjs_search/markjs.jquery

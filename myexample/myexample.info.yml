@@ -1,0 +1,6 @@
+name: 'myexample'
+type: module
+description: 'js example module'
+core: 8.x
+package: 'Custom'
+

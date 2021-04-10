@@ -1,0 +1,7 @@
+myexample.my_controller_hello:
+  path: '/myexample/hello'
+  defaults:
+    _controller: '\Drupal\myexample\Controller\MyController::hello'
+    _title: 'Data'
+  requirements:
+    _permission: 'access content'
